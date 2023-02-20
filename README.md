@@ -10,11 +10,11 @@ I'm Hugues Prud'homme, a student in Software Engineering
 
 ## 🎛️ Some Projects ...
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=frontendMentor-nftPreview)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=frontendMentor-nftPreview)](https://github.com/Huguesmmm/frontendMentor-nftPreview)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=Interventions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=Interventions)](https://github.com/Huguesmmm/Interventions)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=notion-auto-update)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=notion-auto-update)](https://github.com/Huguesmmm/notion-auto-update)
 
 ## 🤖 Here some link :
 
