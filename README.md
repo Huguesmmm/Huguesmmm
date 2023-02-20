@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Huguesmmm/Huguesmmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hugues Prud'homme, a student in Software Engineering
 
-Here are some ideas to get you started:
+## 💻 Currently Studying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LOG121 Objects Oriented Programming
+- MAT210 Introduction to Discrete Mathematics
+- ING150 Statics and Dynamics
+
+## 🎛️ Some Projects ...
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=frontendMentor-nftPreview)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=Interventions)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=notion-auto-update)
+
+## 🤖 Here some link :
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
