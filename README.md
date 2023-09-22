@@ -4,7 +4,8 @@ I'm Hugues Prud'homme, a student in Software Engineering
 
 ## 💻 Currently Studying
 
-- LOG121 Objects Oriented Programming
+- LOG240 Testing and maintenance
+- ETH610 Ethical challenges of artificial intelligence
 - MAT210 Introduction to Discrete Mathematics
 - ING150 Statics and Dynamics
 
