@@ -9,7 +9,7 @@ I'm Hugues Prud'homme, a student in Software Engineering
 - MAT210 Introduction to Discrete Mathematics
 - ING150 Statics and Dynamics
 
-## 🎛️ Some Projects ...
+## 🎛️ Some Projects ... (click on them, they're deployed for you 🤗)
 
 | Github        | Deployment    |
 | ------------- | ------------- |
