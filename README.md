@@ -3,11 +3,17 @@
 I'm Hugues Prud'homme, a student in Software Engineering
 
 ## 💻 Currently Studying
+- LOG210 : Software Analysis and Design
+- LOG410 : Software Requirements and Specifications
+- PHY332 : Electricity and Magnetism
+- PHY335 : Vibrations and Waves
+
+## 📖 Important Classes Completed
 
 - LOG320 : Data structures and algorithms
 - GTI611 : IP communication networks
-- MAT350 : Probability and statistics
-- ING472 : Linear algebra and space geometry
+- LOG240 : Tests and maintenance
+- LOG121 : Oriented Object Programming
 
 ## 🎛️ Some Projects ... (click on them, they're deployed for you 🤗)
 
