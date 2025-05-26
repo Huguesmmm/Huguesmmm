@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm Hugues Prud'homme, a student in Software Engineering
+I'm Hugues Prud'homme, a student in Software Engineering based in Montreal.
 
 ## 💻 Currently Studying
-- LOG210 : Software Analysis and Design
+- LOG660 : High Performance Database
 - LOG410 : Software Requirements and Specifications
-- PHY332 : Electricity and Magnetism
-- PHY335 : Vibrations and Waves
+- GTI320 : Mathematical programming: patterns and efficient algorithms
+- ETH610 : Ethics of Artificial Intelligence
 
 ## 📖 Important Classes Completed
 
@@ -14,6 +14,7 @@ I'm Hugues Prud'homme, a student in Software Engineering
 - GTI611 : IP communication networks
 - LOG240 : Tests and maintenance
 - LOG121 : Oriented Object Programming
+- LOG210 : Software Analysis and Design
 
 ## 🎛️ Some Projects ... (click on them, they're deployed for you 🤗)
 
