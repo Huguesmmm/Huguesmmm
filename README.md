@@ -11,10 +11,11 @@ I'm Hugues Prud'homme, a student in Software Engineering based in Montreal.
 ## 📖 Important Classes Completed
 
 - LOG320 : Data structures and algorithms
-- GTI611 : IP communication networks
+- GTI350 : Design of UI and UX
 - LOG240 : Tests and maintenance
 - LOG121 : Oriented Object Programming
 - LOG210 : Software Analysis and Design
+- GTI611 : IP Communication networks
 
 ## 🎛️ Some Projects ... (click on them, they're deployed for you 🤗)
 
