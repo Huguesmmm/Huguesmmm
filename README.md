@@ -17,11 +17,15 @@ I'm Hugues Prud'homme, a student in Software Engineering based in Montreal.
 - LOG210 : Software Analysis and Design
 - GTI611 : IP Communication networks
 
+## 🦄 A bit of my creative side
+| Github        | Preview   |
+| --------------|-----------|
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=dotfiles)](https://github.com/Huguesmmm/dotfiles/) | [<img src="https://github.com/user-attachments/assets/df88614d-f366-45a6-90ab-2d2456889927" width="350" height="auto"/>](https://github.com/Huguesmmm/dotfiles) |
+
 ## 🎛️ Some Projects ... (click on them, they're deployed for you 🤗)
 
 | Github        | Deployment    |
 | ------------- | ------------- |
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=dotfiles)](https://github.com/Huguesmmm/dotfiles/) | [<img src="https://github.com/user-attachments/assets/df88614d-f366-45a6-90ab-2d2456889927" width="350" height="auto"/>](https://huguesmmm.github.io/3d-blob/) |
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=digitalhippo)](https://github.com/Huguesmmm/digitalhippo/) <br>* The deployment of this project failed and I didn't have time to debug yet 😢 | [<img src="https://github.com/Huguesmmm/digitalhippo/blob/main/public/digitalhippo_deployment.png" width="350" height="auto">](https://digitalhippo-production-f969.up.railway.app/) |
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=3d-blob)](https://github.com/Huguesmmm/3d-blob) | [<img src="https://github.com/Huguesmmm/3d-blob/blob/main/src/assets/Readme/3d-blob_preview.png" width="350" height=250>](https://huguesmmm.github.io/3d-blob/) |
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=frontendMentor-nftPreview)](https://github.com/Huguesmmm/frontendMentor-nftPreview) | [<img src="https://github.com/Huguesmmm/frontendMentor-nftPreview/raw/main/public/images/readmePreview.png" width="250" height=250 margin="auto">](https://huguesmmm.github.io/frontendMentor-nftPreview/) |
