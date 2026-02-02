@@ -3,10 +3,10 @@
 I'm Hugues Prud'homme, a student in Software Engineering based in Montreal.
 
 ## 💻 Currently Studying
-- LOG660 : High Performance Database
-- LOG410 : Software Requirements and Specifications
-- GTI320 : Mathematical programming: patterns and efficient algorithms
-- ETH610 : Ethics of Artificial Intelligence
+- GTI525 : Technologies of Internet development
+- GTI745 : Advanced User Interfaces
+- LOG450 : Mobile Application design
+- LOG660 : Introduction to DevOps
 
 ## 📖 Important Classes Completed
 
@@ -16,6 +16,8 @@ I'm Hugues Prud'homme, a student in Software Engineering based in Montreal.
 - LOG121 : Oriented Object Programming
 - LOG210 : Software Analysis and Design
 - GTI611 : IP Communication networks
+- ETH610 : Ethics of Artificial Intelligence
+- LOG660 : High Performance Database
 
 ## 🦄 A bit of my creative side
 | Github        | Preview   |
