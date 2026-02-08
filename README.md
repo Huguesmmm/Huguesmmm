@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Hugues Prud'homme — Software Engineering Student, Montreal"/>
+<img src="./assets/banner.svg" width="100%" alt="I am Hugues P."/>
 
 <p align="center">
   <a href="https://huguesmmm.github.io/portfolio2026/">

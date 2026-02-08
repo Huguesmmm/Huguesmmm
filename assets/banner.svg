@@ -1,83 +1,31 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="180" viewBox="0 0 750 180" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&amp;display=swap');
 
-      .title {
-        font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
+      .greeting {
+        font-family: 'Inter';
+        font-weight: 500;
+        font-size: 60px;
+        letter-spacing: 2px;
+        fill: #24292f;
+      }
+      .name {
+        font-family: 'Fuzzy Bubbles', cursive;
         font-weight: 700;
-        font-size: 48px;
-        fill: #e6edf3;
-        opacity: 0;
-        animation: fadeIn 1.2s ease-out 0.2s forwards;
+        font-size: 62px;
+        letter-spacing: 4px;
+        fill: #24292f;
       }
 
-      .subtitle {
-        font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
-        font-weight: 400;
-        font-size: 20px;
-        fill: #8b949e;
-        opacity: 0;
-        animation: fadeIn 1.2s ease-out 0.6s forwards;
-      }
-
-      .accent-line {
-        stroke: #58a6ff;
-        stroke-width: 2;
-        opacity: 0;
-        animation: fadeIn 1s ease-out 0.4s forwards;
-      }
-
-      .dot {
-        fill: #58a6ff;
-        opacity: 0;
-        animation: fadeIn 1s ease-out 0.8s forwards;
-      }
-
-      .glow-circle {
-        fill: none;
-        stroke: #58a6ff;
-        stroke-width: 0.5;
-        opacity: 0;
-        animation: pulseGlow 4s ease-in-out 1s infinite;
-      }
-
-      @keyframes fadeIn {
-        from { opacity: 0; transform: translateY(8px); }
-        to { opacity: 1; transform: translateY(0); }
-      }
-
-      @keyframes pulseGlow {
-        0%, 100% { opacity: 0; }
-        50% { opacity: 0.15; }
+      @media (prefers-color-scheme: dark) {
+        .greeting { fill: #e6edf3; }
+        .name { fill: #e6edf3; }
       }
     </style>
   </defs>
-
-  <!-- Background -->
-  <rect width="1200" height="300" fill="#0d1117" rx="6"/>
-
-  <!-- Subtle grid pattern -->
-  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161b22" stroke-width="0.5"/>
-  </pattern>
-  <rect width="1200" height="300" fill="url(#grid)" opacity="0.5"/>
-
-  <!-- Decorative elements -->
-  <circle cx="950" cy="150" r="120" class="glow-circle"/>
-  <circle cx="950" cy="150" r="80" class="glow-circle" style="animation-delay: 2s;"/>
-  <circle cx="950" cy="150" r="40" class="glow-circle" style="animation-delay: 3s;"/>
-
-  <!-- Accent line -->
-  <line x1="80" y1="175" x2="200" y2="175" class="accent-line"/>
-
-  <!-- Small decorative dots -->
-  <circle cx="80" cy="175" r="3" class="dot"/>
-  <circle cx="200" cy="175" r="3" class="dot"/>
-
-  <!-- Title text -->
-  <text x="80" y="150" class="title">Hugues Prud'homme</text>
-
-  <!-- Subtitle -->
-  <text x="80" y="210" class="subtitle">Software Engineering Student — Montreal</text>
+  <text x="30" y="80" class="greeting">I am</text>
+  <text x="30" y="150" class="name">Hugues P.</text>
+  <image href="https://raw.githubusercontent.com/Huguesmmm/Huguesmmm/main/assets/portrait-notion.png" x="570" y="5" width="170" height="170"/>
 </svg>
