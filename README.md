@@ -1,4 +1,7 @@
-<img src="./assets/banner.svg" width="100%" alt="I am Hugues P."/>
+<table><tr>
+  <td valign="center"><img src="./assets/banner.svg" width="400" alt="I am Hugues P."/></td>
+  <td align="right" valign="center"><img src="./assets/portrait-notion.png" width="160" alt="Portrait"/></td>
+</tr></table>
 
 <p align="center">
   <a href="https://huguesmmm.github.io/portfolio2026/">

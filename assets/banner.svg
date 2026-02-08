@@ -27,5 +27,4 @@
   </defs>
   <text x="30" y="80" class="greeting">I am</text>
   <text x="30" y="150" class="name">Hugues P.</text>
-  <image href="https://raw.githubusercontent.com/Huguesmmm/Huguesmmm/main/assets/portrait-notion.png" x="570" y="5" width="170" height="170"/>
 </svg>
