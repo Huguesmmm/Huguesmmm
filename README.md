@@ -15,7 +15,7 @@
 [![Mail](./assets/contact-me/mail-light.svg)](mailto:hugues.prudhomme123@gmail.com#gh-light-mode-only)
 [![Mail](./assets/contact-me/mail-dark.svg)](mailto:hugues.prudhomme123@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://huguesmmm.github.io/portfolio2026/#gh-light-mode-only"><img height="45" src="./assets/contact-me/website-light.svg" alt="Website"/></a><a href="https://huguesmmm.github.io/portfolio2026/#gh-dark-mode-only"><img align="center" height="50" src="./assets/contact-me/website-dark.svg" alt="Website"/></a>
+<a href="https://huguesmmm.github.io/portfolio2026/#gh-light-mode-only"><img align="center" height="50" src="./assets/contact-me/website-light.svg" alt="Website"/></a><a href="https://huguesmmm.github.io/portfolio2026/#gh-dark-mode-only"><img align="center" height="50" src="./assets/contact-me/website-dark.svg" alt="Website"/></a>
 
 ---
 
@@ -48,13 +48,13 @@
 
 <p align="center">
   <a href="https://cineloc-log660.vercel.app/">
-    <img width="30%" src="./assets/projects/cineloc.png" alt="cine-loc"/>
+    <img width="32%" src="./assets/projects/cineloc.png" alt="cine-loc"/>
   </a>&nbsp;
   <a href="https://github.com/Huguesmmm/dotfiles">
     <img width="30%" src="./assets/projects/dotfiles.png" alt="dotfiles"/>
   </a>&nbsp;
-  <a href="https://github.com/Huguesmmm/portfolio2023">
-    <img width="30%" src="./assets/projects/bob-3d.png" alt="portfolio2023"/>
+  <a href="https://github.com/Huguesmmm/3d-blob">
+    <img width="28%" src="./assets/projects/bob-3d.png" alt="portfolio2023"/>
   </a>
 </p>
 
