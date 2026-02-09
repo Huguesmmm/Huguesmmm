@@ -1,14 +1,79 @@
-## Hi there 👋
+<br><br>
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="I am Hugues P."/>
+</div>
+<br><br>
 
-I'm Hugues Prud'homme, a student in Software Engineering based in Montreal.
+### Connect with me
+&nbsp;
+[![LinkedIn](./assets/contact-me/linkedin-light.svg)](https://www.linkedin.com/in/huguesprudhomme/#gh-light-mode-only)
+[![LinkedIn](./assets/contact-me/linkedin-dark.svg)](https://www.linkedin.com/in/huguesprudhomme/#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](./assets/contact-me/instagram-light.svg)](https://www.instagram.com/prudhommehugues/#gh-light-mode-only)
+[![Instagram](./assets/contact-me/instagram-dark.svg)](https://www.instagram.com/prudhommehugues/#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Mail](./assets/contact-me/mail-light.svg)](mailto:hugues.prudhomme123@gmail.com#gh-light-mode-only)
+[![Mail](./assets/contact-me/mail-dark.svg)](mailto:hugues.prudhomme123@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://huguesmmm.github.io/portfolio2026/#gh-light-mode-only"><img height="45" src="./assets/contact-me/website-light.svg" alt="Website"/></a><a href="https://huguesmmm.github.io/portfolio2026/#gh-dark-mode-only"><img align="center" height="50" src="./assets/contact-me/website-dark.svg" alt="Website"/></a>
 
-## 💻 Currently Studying
+---
+
+<p align="center">
+  <img align="top" src="https://github-readme-stats-xi-six-13.vercel.app/api?username=huguesmmm&show_icons=true&theme=transparent&hide_border=true" alt="Hugues's GitHub stats"/>
+  <img align="top" src="https://github-readme-stats-xi-six-13.vercel.app/api/top-langs/?username=huguesmmm&theme=transparent&layout=compact&langs_count=8&hide_border=true" alt="Top Langs"/>
+</p>
+
+---
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cdocker%2Cneovim&perline=12&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cdocker%2Cneovim&perline=12&theme=light"
+    />
+    <img
+      alt="My skills"
+      src="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cdocker%2Cneovim&perline=12&theme=dark"
+    />
+  </picture>
+</p>
+
+---
+
+### Projects
+
+<p align="center">
+  <a href="https://cineloc-log660.vercel.app/">
+    <img width="30%" src="./assets/projects/cineloc.png" alt="cine-loc"/>
+  </a>&nbsp;
+  <a href="https://github.com/Huguesmmm/dotfiles">
+    <img width="30%" src="./assets/projects/dotfiles.png" alt="dotfiles"/>
+  </a>&nbsp;
+  <a href="https://github.com/Huguesmmm/portfolio2023">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=portfolio2023&theme=github_dark&hide_border=true" alt="portfolio2023"/>
+  </a>
+</p>
+
+---
+
+<details>
+<summary><b>🔬 Currently Studying</b></summary>
+<br>
+
 - GTI525 : Technologies of Internet development
 - GTI745 : Advanced User Interfaces
 - LOG450 : Mobile Application design
 - LOG660 : Introduction to DevOps
 
-## 📖 Important Classes Completed
+</details>
+
+<details>
+<summary><b>🧠 Important Classes Completed</b></summary>
+<br>
 
 - LOG320 : Data structures and algorithms
 - GTI350 : Design of UI and UX
@@ -19,20 +84,6 @@ I'm Hugues Prud'homme, a student in Software Engineering based in Montreal.
 - ETH610 : Ethics of Artificial Intelligence
 - LOG660 : High Performance Database
 
-## 🦄 A bit of my creative side
-| Github        | Preview   |
-| --------------|-----------|
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=dotfiles)](https://github.com/Huguesmmm/dotfiles/) | [<img src="https://github.com/user-attachments/assets/df88614d-f366-45a6-90ab-2d2456889927" width="350" height="auto"/>](https://github.com/Huguesmmm/dotfiles) |
+</details>
 
-## 🎛️ Some Projects ... (click on them, they're deployed for you 🤗)
-
-| Github        | Deployment    |
-| ------------- | ------------- |
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=digitalhippo)](https://github.com/Huguesmmm/digitalhippo/) <br>* The deployment of this project failed and I didn't have time to debug yet 😢 | [<img src="https://github.com/Huguesmmm/digitalhippo/blob/main/public/digitalhippo_deployment.png" width="350" height="auto">](https://digitalhippo-production-f969.up.railway.app/) |
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=3d-blob)](https://github.com/Huguesmmm/3d-blob) | [<img src="https://github.com/Huguesmmm/3d-blob/blob/main/src/assets/Readme/3d-blob_preview.png" width="350" height=250>](https://huguesmmm.github.io/3d-blob/) |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=frontendMentor-nftPreview)](https://github.com/Huguesmmm/frontendMentor-nftPreview) | [<img src="https://github.com/Huguesmmm/frontendMentor-nftPreview/raw/main/public/images/readmePreview.png" width="250" height=250 margin="auto">](https://huguesmmm.github.io/frontendMentor-nftPreview/) |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=Interventions)](https://github.com/Huguesmmm/Interventions) <br>* The backend is built on unsupported tools, so not working anymore | [<img src="https://github.com/Huguesmmm/Interventions/blob/73da337bcd115968ec6f0f4df21d1674c10e10ae/src/assets/images/screenshot-deployment.png" width="350" height="auto">](https://interventions.vercel.app/accueil) |
-
-## 🤖 Here some link :
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugues-prud-homme-9bba43180/)
+---
