@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="184pt" height="252pt" viewBox="0 0 184 252"
+ preserveAspectRatio="xMidYMid meet">
+
+  <!-- Horizontal eye movement -->
+  <g>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="0 0; -5 0; -5 0; 0 0; 5 0; 5 0; 0 0; 0 0"
+      keyTimes="0; 0.133; 0.2; 0.333; 0.467; 0.533; 0.667; 1"
+      dur="6s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.6 1; 0.25 0.1 0.25 1; 0.4 0 0.6 1; 0.4 0 0.6 1; 0.25 0.1 0.25 1; 0.4 0 0.6 1; 0.25 0.1 0.25 1"/>
+
+    <!-- Blink: scale Y around eye center (92, 128) -->
+    <g transform="translate(92, 128)">
+      <g>
+        <animateTransform
+          attributeName="transform"
+          type="scale"
+          values="1 1; 1 1; 1 0.05; 1 1; 1 1; 1 0.05; 1 1; 1 1"
+          keyTimes="0; 0.68; 0.71; 0.74; 0.82; 0.85; 0.88; 1"
+          dur="6s"
+          repeatCount="indefinite"/>
+
+        <g transform="translate(-92, -128)">
+          <g transform="translate(0,252) scale(0.1,-0.1)" fill="#000000" stroke="none">
+            <path d="M865 2121 c-73 -13 -155 -60 -211 -119 -37 -39 -101 -164 -119 -232
+-37 -139 -44 -191 -55 -400 -16 -280 4 -460 76 -699 17 -57 75 -159 111 -196
+50 -52 68 -65 128 -94 28 -13 58 -28 67 -33 23 -11 204 -10 226 1 9 5 30 15
+46 22 17 8 56 38 88 68 79 72 141 200 173 356 33 158 49 436 35 625 -11 166
+-17 204 -58 360 -18 70 -76 175 -124 227 -71 74 -153 111 -260 117 -45 3 -101
+1 -123 -3z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
