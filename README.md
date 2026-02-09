@@ -48,13 +48,13 @@
 
 <p align="center">
   <a href="https://cineloc-log660.vercel.app/">
-    <img heigth="150" src="./assets/projects/cineloc.png" alt="cine-loc"/>
+    <img width="30%" src="./assets/projects/cineloc.png" alt="cine-loc"/>
   </a>&nbsp;
   <a href="https://github.com/Huguesmmm/dotfiles">
-    <img heigth="150" src="./assets/projects/dotfiles.png" alt="dotfiles"/>
+    <img width="30%" src="./assets/projects/dotfiles.png" alt="dotfiles"/>
   </a>&nbsp;
   <a href="https://github.com/Huguesmmm/portfolio2023">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=portfolio2023&theme=github_dark&hide_border=true" alt="portfolio2023"/>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=portfolio2023&theme=github_dark&hide_border=true" alt="portfolio2023"/>
   </a>
 </p>
 
