@@ -6,17 +6,16 @@
 
 ### Connect with me
 
-<p>
-  <a href="https://huguesmmm.github.io/portfolio2026/">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hugues-prud-homme-9bba43180/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/huguesmmm/">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff" alt="Instagram"/>
-  </a>
-</p>
+[![LinkedIn](./assets/contact-me/linkedin-light.svg)](https://www.linkedin.com/in/hugues-prud-homme-9bba43180/#gh-light-mode-only)
+[![LinkedIn](./assets/contact-me/linkedin-dark.svg)](https://www.linkedin.com/in/hugues-prud-homme-9bba43180/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Instagram](./assets/contact-me/instagram-light.svg)](https://www.instagram.com/huguesmmm/#gh-light-mode-only)
+[![Instagram](./assets/contact-me/instagram-dark.svg)](https://www.instagram.com/huguesmmm/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Mail](./assets/contact-me/mail-light.svg)](mailto:hugues.prudhomme@gmail.com#gh-light-mode-only)
+[![Mail](./assets/contact-me/mail-dark.svg)](mailto:hugues.prudhomme@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+<a href="https://huguesmmm.github.io/portfolio2026/#gh-light-mode-only"><img height="45" src="./assets/contact-me/website-light.svg" alt="Website"/></a><a href="https://huguesmmm.github.io/portfolio2026/#gh-dark-mode-only"><img align="center" height="50" src="./assets/contact-me/website-dark.svg" alt="Website"/></a>
 
 ---
 
