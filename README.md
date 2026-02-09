@@ -1,5 +1,5 @@
 <br><br>
-<div>
+<div align="center">
   <img align="right" valign="center" src="./assets/portrait-notion-with-padding.png" height="180" alt="Portrait"/>
   <img valign="center" src="./assets/banner.svg" height="180" alt="I am Hugues P."/>
 </div>
