@@ -1,7 +1,6 @@
 <br><br>
 <div align="center">
-  <img valign="center" src="./assets/banner.svg" height="180" alt="I am Hugues P."/>
-  <img align="right" valign="center" src="./assets/portrait-notion-with-padding.png" height="180" alt="Portrait"/>
+  <img src="./assets/banner.svg" width="100%" alt="I am Hugues P."/>
 </div>
 <br><br>
 
@@ -21,7 +20,9 @@
 
 ---
 
-![Hugues's GitHub stats](https://github-readme-stats-xi-six-13.vercel.app/api?username=huguesmmm&show_icons=true&theme=transparent&hide_border=true)
+![Hugues's GitHub stats](https://github-readme-stats-xi-six-13.vercel.app/api?username=huguesmmm&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats-xi-six-13.vercel.app/api/top-langs/?username=huguesmmm&theme=transparent&layout=compact&langs_count=8&card_width=330)
+
 ---
 <p align="center">
   <picture>
