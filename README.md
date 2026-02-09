@@ -4,13 +4,16 @@
   <img valign="center" src="./assets/banner.svg" height="180" alt="I am Hugues P."/>
 </div>
 <br><br>
-<p align="center">
+
+### Connect with me
+
+<p>
   <a href="https://huguesmmm.github.io/portfolio2026/">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.linkedin.com/in/hugues-prud-homme-9bba43180/">
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/>
-  </a>&nbsp;
+  </a>
   <a href="https://www.instagram.com/huguesmmm/">
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff" alt="Instagram"/>
   </a>
@@ -18,23 +21,14 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Huguesmmm&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huguesmmm&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages"/>
-</p>
+![Hugues's GitHub stats](https://github-readme-stats-xi-six-13.vercel.app/api?username=huguesmmm&show_icons=true&theme==transparent)
 
 ---
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" alt="Svelte"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" alt="Astro"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,css,tailwind,bun,vite,react,nextjs,svelte,astro,prisma,mongodb,java,gradle,selenium,gherkin,kotlin,androidstudio,python,go,cs,dotnet,docker,neovim#gh-dark-mode-only" />
+    <img src="https://skillicons.dev/icons?i=ts,js,css,tailwind,bun,vite,react,nextjs,svelte,astro,prisma,mongodb,java,gradle,selenium,gherkin,kotlin,androidstudio,python,go,cs,dotnet,docker,neovim#gh-light-mode-only" />
+  </a>
 </p>
 
 ---
@@ -82,7 +76,3 @@
 </details>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%" alt=""/>
-</p>
