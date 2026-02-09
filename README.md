@@ -21,7 +21,7 @@
 
 <p align="center">
   <img align="top" src="https://github-readme-stats-xi-six-13.vercel.app/api?username=huguesmmm&show_icons=true&theme=transparent&hide_border=true" alt="Hugues's GitHub stats"/>
-  <img align="top" src="https://github-readme-stats-xi-six-13.vercel.app/api/top-langs/?username=huguesmmm&theme=transparent&layout=compact&langs_count=8&hide_border=true" alt="Top Langs"/>
+  <img align="top" src="https://github-readme-stats-xi-six-13.vercel.app/api/top-langs/?username=huguesmmm&theme=transparent&layout=compact&langs_count=10&hide_border=true" alt="Top Langs"/>
 </p>
 
 ---
