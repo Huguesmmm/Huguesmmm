@@ -1,7 +1,7 @@
 <br><br>
 <div>
-  <img valign="center" src="./assets/banner.svg" height="180" alt="I am Hugues P."/>
   <img align="right" valign="center" src="./assets/portrait-notion-with-padding.png" height="180" alt="Portrait"/>
+  <img valign="center" src="./assets/banner.svg" height="180" alt="I am Hugues P."/>
 </div>
 <br><br>
 <p align="center">
