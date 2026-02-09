@@ -1,13 +1,9 @@
-<table><tr>
-  <td valign="center"><img src="./assets/banner.svg" width="400" alt="I am Hugues P."/></td>
-  <td align="right" valign="center"><img src="./assets/portrait-notion.png" width="160" alt="Portrait"/></td>
-</tr></table>
-
+<br><br>
 <div>
   <img valign="center" src="./assets/banner.svg" height="180" alt="I am Hugues P."/>
   <img align="right" valign="center" hspace="150" src="./assets/portrait-notion.png" height="180" alt="Portrait"/>
 </div>
-
+<br><br>
 <p align="center">
   <a href="https://huguesmmm.github.io/portfolio2026/">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/>
