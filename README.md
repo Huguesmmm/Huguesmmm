@@ -5,16 +5,16 @@
 <br><br>
 
 ### Connect with me
-
-[![LinkedIn](./assets/contact-me/linkedin-light.svg)](https://www.linkedin.com/in/hugues-prud-homme-9bba43180/#gh-light-mode-only)
-[![LinkedIn](./assets/contact-me/linkedin-dark.svg)](https://www.linkedin.com/in/hugues-prud-homme-9bba43180/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Instagram](./assets/contact-me/instagram-light.svg)](https://www.instagram.com/huguesmmm/#gh-light-mode-only)
-[![Instagram](./assets/contact-me/instagram-dark.svg)](https://www.instagram.com/huguesmmm/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Mail](./assets/contact-me/mail-light.svg)](mailto:hugues.prudhomme@gmail.com#gh-light-mode-only)
-[![Mail](./assets/contact-me/mail-dark.svg)](mailto:hugues.prudhomme@gmail.com#gh-dark-mode-only)
-&nbsp;&nbsp;
+&nbsp;
+[![LinkedIn](./assets/contact-me/linkedin-light.svg)](https://www.linkedin.com/in/huguesprudhomme/#gh-light-mode-only)
+[![LinkedIn](./assets/contact-me/linkedin-dark.svg)](https://www.linkedin.com/in/huguesprudhomme/#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Instagram](./assets/contact-me/instagram-light.svg)](https://www.instagram.com/prudhommehugues/#gh-light-mode-only)
+[![Instagram](./assets/contact-me/instagram-dark.svg)](https://www.instagram.com/prudhommehugues/#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Mail](./assets/contact-me/mail-light.svg)](mailto:hugues.prudhomme123@gmail.com#gh-light-mode-only)
+[![Mail](./assets/contact-me/mail-dark.svg)](mailto:hugues.prudhomme123@gmail.com#gh-dark-mode-only)
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huguesmmm.github.io/portfolio2026/#gh-light-mode-only"><img height="45" src="./assets/contact-me/website-light.svg" alt="Website"/></a><a href="https://huguesmmm.github.io/portfolio2026/#gh-dark-mode-only"><img align="center" height="50" src="./assets/contact-me/website-dark.svg" alt="Website"/></a>
 
 ---
@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/Huguesmmm/cine-loc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=cine-loc&theme=github_dark&hide_border=true" alt="cine-loc"/>
+    <img heigth="250" src="./assets/projects/cineloc.png" alt="cine-loc"/>
   </a>&nbsp;
   <a href="https://github.com/Huguesmmm/dotfiles">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huguesmmm&repo=dotfiles&theme=github_dark&hide_border=true" alt="dotfiles"/>
@@ -61,7 +61,7 @@
 ---
 
 <details>
-<summary><b>Currently Studying</b></summary>
+<summary><b>🔬 Currently Studying</b></summary>
 <br>
 
 - GTI525 : Technologies of Internet development
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary><b>Important Classes Completed</b></summary>
+<summary><b>🧠 Important Classes Completed</b></summary>
 <br>
 
 - LOG320 : Data structures and algorithms
