@@ -4,7 +4,7 @@
 </tr></table>
 
 <div>
-  <img valign="center" src="./assets/banner.svg" height="100" alt="I am Hugues P."/>
+  <img valign="center" src="./assets/banner.svg" height="180" alt="I am Hugues P."/>
   <img align="right" valign="center" hspace="150" src="./assets/portrait-notion.png" height="180" alt="Portrait"/>
 </div>
 
