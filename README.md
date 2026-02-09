@@ -1,7 +1,7 @@
 <br><br>
 <div align="center">
-  <img align="right" valign="center" src="./assets/portrait-notion-with-padding.png" height="180" alt="Portrait"/>
   <img valign="center" src="./assets/banner.svg" height="180" alt="I am Hugues P."/>
+  <img align="right" valign="center" src="./assets/portrait-notion-with-padding.png" height="180" alt="Portrait"/>
 </div>
 <br><br>
 
@@ -21,14 +21,23 @@
 
 ---
 
-![Hugues's GitHub stats](https://github-readme-stats-xi-six-13.vercel.app/api?username=huguesmmm&show_icons=true&theme==transparent)
-
+![Hugues's GitHub stats](https://github-readme-stats-xi-six-13.vercel.app/api?username=huguesmmm&show_icons=true&theme=transparent&hide_border=true)
 ---
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,css,tailwind,bun,vite,react,nextjs,svelte,astro,prisma,mongodb,java,gradle,selenium,gherkin,kotlin,androidstudio,python,go,cs,dotnet,docker,neovim#gh-dark-mode-only" />
-    <img src="https://skillicons.dev/icons?i=ts,js,css,tailwind,bun,vite,react,nextjs,svelte,astro,prisma,mongodb,java,gradle,selenium,gherkin,kotlin,androidstudio,python,go,cs,dotnet,docker,neovim#gh-light-mode-only" />
-  </a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cdocker%2Cneovim&perline=12&theme=dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cdocker%2Cneovim&perline=12&theme=light"
+    />
+    <img
+      alt="My skills"
+      src="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cdocker%2Cneovim&perline=12&theme=dark"
+    />
+  </picture>
 </p>
 
 ---
