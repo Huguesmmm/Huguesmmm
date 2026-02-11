@@ -12,11 +12,22 @@
 [![Instagram](./assets/contact-me/instagram-light.svg)](https://www.instagram.com/prudhommehugues/#gh-light-mode-only)
 [![Instagram](./assets/contact-me/instagram-dark.svg)](https://www.instagram.com/prudhommehugues/#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Mail](./assets/contact-me/mail-light.svg)](mailto:hugues.prudhomme123@gmail.com#gh-light-mode-only)
-[![Mail](./assets/contact-me/mail-dark.svg)](mailto:hugues.prudhomme123@gmail.com#gh-dark-mode-only)
+<a href="mailto:hugues.prudhomme123@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-me/mail-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/contact-me/mail-light.svg">
+    <img valign="center" src="./assets/contact-me/mail-light.svg" alt="Mail"/>
+  </picture>
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huguesmmm.github.io/portfolio2026/#gh-light-mode-only"><img align="center" height="50" src="./assets/contact-me/website-light.svg" alt="Website"/></a><a href="https://huguesmmm.github.io/portfolio2026/#gh-dark-mode-only"><img align="center" height="50" src="./assets/contact-me/website-dark.svg" alt="Website"/></a>
 
+---
+### About me
+- 🏢 Software Engineer Student @ [ÉTS](https://www.etsmtl.ca/)
+- 🔬 ***Obsessed with efficiency & aestethics***: crafting clean code, designing intuitive UI/UX, and optimizing/automating developer workflows.
+- ⚡ ***Current stack***: Typescript, Bun and Hono ~ on Neovim
+- ❤️ ***Offline***: I love 3rd wave coffee, climbing and doing family stuff
 ---
 
 <p align="center">
