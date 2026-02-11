@@ -46,15 +46,18 @@
 
 ### Projects
 
-<p align="center">
+<p align="left">
   <a href="https://cineloc-log660.vercel.app/">
-    <img width="32%" src="./assets/projects/cineloc.png" alt="cine-loc"/>
+    <img width="33%" src="./assets/projects/cineloc.png" alt="cine-loc"/>
   </a>&nbsp;
   <a href="https://github.com/Huguesmmm/dotfiles">
-    <img width="30%" src="./assets/projects/dotfiles.png" alt="dotfiles"/>
+    <img width="32%" src="./assets/projects/dotfiles.png" alt="dotfiles"/>
   </a>&nbsp;
-  <a href="https://github.com/Huguesmmm/3d-blob">
-    <img width="28%" src="./assets/projects/bob-3d.png" alt="portfolio2023"/>
+  <a href="https://huguesmmm.github.io/3d-blob">
+    <img width="30%" src="./assets/projects/bob-3d.png" alt="portfolio2023"/>
+  </a>
+  <a href="https://photo-expo-chi.vercel.app">
+    <img width="33%" src="./assets/projects/photo-expo.png" alt="Hugues' Memory"/>
   </a>
 </p>
 
