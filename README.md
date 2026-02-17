@@ -40,15 +40,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cdocker%2Cneovim&perline=12&theme=dark"
+      srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cspring%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cunity%2Cdocker%2Cneovim&perline=13&theme=dark"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cdocker%2Cneovim&perline=12&theme=light"
+      srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cspring%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cunity%2Cdocker%2Cneovim&perline=13&theme=light"
     />
     <img
       alt="My skills"
-      src="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotnet%2Cdocker%2Cneovim&perline=12&theme=dark"
+      src="https://skillicons.dev/icons?i=ts%2Cjs%2Ccss%2Ctailwind%2Cbun%2Cvite%2Creact%2Cnextjs%2Csvelte%2Castro%2Cprisma%2Cmongodb%2Cjava%2Cspring%2Cgradle%2Cselenium%2Cgherkin%2Ckotlin%2Candroidstudio%2Cpython%2Cgo%2Ccs%2Cdotneté52Cunity%2Cdocker%2Cneovim&perline=13&theme=dark"
     />
   </picture>
 </p>
